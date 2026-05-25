@@ -37,12 +37,14 @@ STK provides ready-to-use examples for popular development boards. Follow these 
 | **FRDM-K66F**      | `project\blinky-frdm-k66f`      | Basic LED toggle using STK tasks/threads. |
 | **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050` | Basic LED toggle using STK tasks/threads. |
 
-> **Note:** Using GCC/Eclipse? Examples for these environments are located in the main STK repository: [STK Main Repo - Examples](https://github.com/SuperTinyKernel-RTOS/stk/tree/main/build/example/project)
+> **Note:** Using GCC/Eclipse? Examples for these environments are located in [STK Main Repo - Examples](https://github.com/SuperTinyKernel-RTOS/stk/tree/main/build/example/project).
+
+> **Note:** Using MCUXpresso, or Arm Keil MDK/µVision, IAR EWARM? Examples for these environments are located in their [respective repositories](https://github.com/SuperTinyKernel-RTOS/).
 
 ---
 
 ## 🔗 Resources
 
 * **Core:** [Repository](https://github.com/SuperTinyKernel-RTOS/stk)
-* **Documentation:** [STK API](https://stk.neutroncode.com)
+* **Documentation:** [STK API](https://supertinykernel.org)
 * **Issue Tracker:** [Report a bug](https://github.com/SuperTinyKernel-RTOS/stk-examples-nxp/issues)
