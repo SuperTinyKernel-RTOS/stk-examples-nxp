@@ -33,10 +33,11 @@ STK provides ready-to-use examples for popular development boards. Follow these 
 
 ## 📂 Supported Examples
 
-| Board              | Path                            | Description                         |
-|:-------------------|:--------------------------------|:------------------------------------|
-| **FRDM-K66F**      | `project\blinky-frdm-k66f`      | Basic LED toggle using STK C++ API. |
-| **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050` | Basic LED toggle using STK C++ API. |
+| Board              | Path                            | Description                          |
+|:-------------------|:--------------------------------|:-------------------------------------|
+| **FRDM-K66F**      | `project\blinky-frdm-k66f`      | Basic LED toggle using STK C++ API.  |
+| **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050` | Basic LED toggle using STK C++ API.  |
+| **FRDM-K66F**      | `project\blinky_c-frdm-k66f`    | Basic LED toggle using STK C API.    |
 
 > **Note:** Using GCC/Eclipse? Examples for these environments are located in [STK Main Repo - Examples](https://github.com/SuperTinyKernel-RTOS/stk/tree/main/build/example/project).
 
