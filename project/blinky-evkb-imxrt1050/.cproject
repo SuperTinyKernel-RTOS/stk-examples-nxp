@@ -53,9 +53,9 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../src/build/example/blinky&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include/arch&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.files.942521678" name="Include files (-include)" superClass="gnu.cpp.compiler.option.include.files" useByScannerDiscovery="false"/>
 								<option id="com.crt.advproject.cpp.exe.debug.option.optimization.level.1475463275" name="Optimization Level" superClass="com.crt.advproject.cpp.exe.debug.option.optimization.level" useByScannerDiscovery="true"/>
@@ -149,9 +149,9 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../src/build/example/blinky&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include/arch&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.include.files.1239822775" name="Include files (-include)" superClass="gnu.c.compiler.option.include.files" useByScannerDiscovery="false"/>
 								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.638136842" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level" useByScannerDiscovery="true"/>
@@ -350,8 +350,10 @@
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CMSIS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="board"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="component"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="deps"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="device"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers"/>
+						<entry excluding="build/example/driver/stm32f4xx|build/example/driver/stm32f1xx|build/example/driver/stm32f0xx|build/example/driver/rp2350w|build/example/driver/portable|build/example/driver/nxpk66" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="example"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="source"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="startup"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="utilities"/>
@@ -413,9 +415,9 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../src/build/example/blinky&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include/arch&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.files.1295999349" name="Include files (-include)" superClass="gnu.cpp.compiler.option.include.files" useByScannerDiscovery="false"/>
 								<option id="gnu.cpp.compiler.option.optimization.flags.439385152" name="Other optimization flags" superClass="gnu.cpp.compiler.option.optimization.flags" useByScannerDiscovery="false" value="-fno-common -fstrict-aliasing --pipe" valueType="string"/>
@@ -508,9 +510,9 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../src/build/example/blinky&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../deps/stk/include/arch&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.include.files.1116166712" name="Include files (-include)" superClass="gnu.c.compiler.option.include.files" useByScannerDiscovery="false"/>
 								<option id="gnu.c.compiler.option.optimization.flags.1525338405" name="Other optimization flags" superClass="gnu.c.compiler.option.optimization.flags" useByScannerDiscovery="false" value="-fno-common -fstrict-aliasing --pipe" valueType="string"/>
@@ -706,8 +708,10 @@
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CMSIS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="board"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="component"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="deps"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="device"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="drivers"/>
+						<entry excluding="build/example/driver/stm32f4xx|build/example/driver/stm32f1xx|build/example/driver/stm32f0xx|build/example/driver/rp2350w|build/example/driver/portable|build/example/driver/nxpk66" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="example"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="source"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="startup"/>
 						<entry flags="LOCAL|VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="utilities"/>

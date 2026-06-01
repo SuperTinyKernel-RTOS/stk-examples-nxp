@@ -50,4 +50,4 @@ if __name__ == "__main__":
     
     # 2. Pull the blinky example to ./src
     src_folders = ["build/example/blinky", "build/example/driver"]
-    sparse_checkout(REPO, src_folders, "./src", branch="main")
+    sparse_checkout(REPO, src_folders, "./example", branch="main")

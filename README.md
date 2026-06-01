@@ -20,8 +20,9 @@ STK provides ready-to-use examples for popular development boards. Follow these 
     ```
 
 2.  **Initialize Dependencies:**
-    Run the configuration script. This will automatically fetch the STK kernel, examples and necessary HAL drivers.
+    Navigate to your chosen example folder and run the configuration script. This will automatically fetch the STK kernel and necessary HAL drivers.
     ```bash
+    cd project/blinky-frdm-k66f
     python configure.py
     ```
 
@@ -32,10 +33,10 @@ STK provides ready-to-use examples for popular development boards. Follow these 
 
 ## 📂 Supported Examples
 
-| Board              | Path                            | Description                               |
-|:-------------------|:--------------------------------|:------------------------------------------|
-| **FRDM-K66F**      | `project\blinky-frdm-k66f`      | Basic LED toggle using STK tasks/threads. |
-| **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050` | Basic LED toggle using STK tasks/threads. |
+| Board              | Path                            | Description                         |
+|:-------------------|:--------------------------------|:------------------------------------|
+| **FRDM-K66F**      | `project\blinky-frdm-k66f`      | Basic LED toggle using STK C++ API. |
+| **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050` | Basic LED toggle using STK C++ API. |
 
 > **Note:** Using GCC/Eclipse? Examples for these environments are located in [STK Main Repo - Examples](https://github.com/SuperTinyKernel-RTOS/stk/tree/main/build/example/project).
 
