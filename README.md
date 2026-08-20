@@ -37,6 +37,7 @@ STK provides ready-to-use examples for popular development boards. Follow these 
 |:-------------------|:-------------------------------------------------|:-----------------------------------------------------------------------------|
 | **FRDM-K66F**      | `project\blinky-frdm-k66f`                       | Basic LED toggle using STK C++ API.                                          |
 | **MIMXRT1050-EVK** | `project\blinky-evkb-imxrt1050`                  | Basic LED toggle using STK C++ API.                                          |
+| **MIMXRT1050-EVK** | `project\blinky_mpu-hard-evkb-imxrt1050`         | Advanced LED toggle example using security hardening with MPU.               |
 | **FRDM-K66F**      | `project\blinky_c-frdm-k66f`                     | Basic LED toggle using STK C API.                                            |
 | **FRDM-K66F**      | `stm\blinky_c-cmsis-rtos2-stm32f407g-disc1`      | Basic LED toggle using CMSIS-RTOS2 API via STK CMSIS-RTOS2 adapter.          |
 | **FRDM-K66F**      | `stm\blinky_c-cmsis-rtos2-prio-stm32f407g-disc1` | Priority inheritance demo using CMSIS-RTOS2 API via STK CMSIS-RTOS2 adapter. |

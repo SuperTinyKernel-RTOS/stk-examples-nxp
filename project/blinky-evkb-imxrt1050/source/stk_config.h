@@ -13,7 +13,7 @@
 #include "MIMXRT1052.h"
 #include "core_cm7.h"
 
-// Undefine if MCU is Arm Cortex-M4
+// ARM Cortex-M7 platform
 #define _STK_ARCH_ARM_CORTEX_M
 
 #ifdef _STK_ARCH_ARM_CORTEX_M
