@@ -54,7 +54,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky_mpu-hard&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
@@ -151,7 +151,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky_mpu-hard&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
@@ -418,7 +418,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky_mpu-hard&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
@@ -514,7 +514,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/component/lists}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/CMSIS}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/device}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/example/build/example/blinky_mpu-hard&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/deps/stk/include/arch&quot;"/>
 								</option>
